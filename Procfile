@@ -1,1 +1,1 @@
-web: gunicorn app:Crawler
+web: gunicorn Crawler:app
